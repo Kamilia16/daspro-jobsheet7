@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Tugas1Bioskop16 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        
         final int hargaTiket = 50000;
         int jumlahTiket;
         int totalTiket = 0;
